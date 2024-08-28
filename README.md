@@ -37,3 +37,11 @@ Users can switch between light and dark themes to personalize their experience a
 Frontend: React, Chakra UI, Axios
 Backend: Node.js, Express.js
 Database: MongoDB
+
+### Run this app locally
+
+npm run build
+
+### Start the app
+
+npm run start

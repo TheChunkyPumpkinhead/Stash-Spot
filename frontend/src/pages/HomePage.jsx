@@ -45,14 +45,14 @@ const HomePage = () => {
             fontWeight="bold"
             color="gray.500"
           >
-            No products found{" "}
+            No stashes found{" "}
             <Link to={"/create"}>
               <Text
                 as="span"
                 color="blue.500"
                 _hover={{ textDecoration: "underline" }}
               >
-                Create a product
+                Create a Stash
               </Text>
             </Link>
           </Text>

@@ -116,12 +116,12 @@ const ProductCard = ({ product }) => {
         <ModalOverlay />
 
         <ModalContent>
-          <ModalHeader>Update Product</ModalHeader>
+          <ModalHeader>Update Stash</ModalHeader>
           <ModalCloseButton />
           <ModalBody>
             <VStack spacing={4}>
               <Input
-                placeholder="Product Name"
+                placeholder="Name"
                 name="name"
                 value={updatedProduct.name}
                 onChange={(e) =>

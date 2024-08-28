@@ -34,13 +34,19 @@ const Navbar = () => {
           bgGradient={"linear(to-r, cyan.400, blue.500)"}
           bgClip={"text"}
         >
-          <Link to={"/"}>Product Store 🛒</Link>
+          <Link to={"/"}> Stash Spot </Link>
         </Text>
 
         <HStack spacing={2} alignItems={"center"}>
           <Link to={"/create"}>
-            <Button>
+            {/* <Button>
               <PlusSquareIcon fontSize={20} />
+            </Button> */}
+            <Button
+              aria-label="Add new product"
+              leftIcon={<PlusSquareIcon fontSize={20} />}
+            >
+              Add New Stash
             </Button>
           </Link>
           <Button onClick={toggleColorMode}>

@@ -21,7 +21,7 @@ const HomePage = () => {
           bgClip={"text"}
           textAlign={"center"}
         >
-          Current Products 🚀
+          Current Products
         </Text>
 
         <SimpleGrid
@@ -45,7 +45,7 @@ const HomePage = () => {
             fontWeight="bold"
             color="gray.500"
           >
-            No products found 😢{" "}
+            No products found{" "}
             <Link to={"/create"}>
               <Text
                 as="span"

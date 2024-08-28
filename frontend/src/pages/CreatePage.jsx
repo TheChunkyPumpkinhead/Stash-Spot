@@ -45,7 +45,7 @@ const CreatePage = () => {
     <Container maxW={"container.sm"}>
       <VStack spacing={8}>
         <Heading as={"h1"} size={"2xl"} textAlign={"center"} mb={8}>
-          Create New Product
+          Create New Stash
         </Heading>
 
         <Box
@@ -57,7 +57,7 @@ const CreatePage = () => {
         >
           <VStack spacing={4}>
             <Input
-              placeholder="Product Name"
+              placeholder="Name"
               name="name"
               value={newProduct.name}
               onChange={(e) =>
@@ -83,7 +83,7 @@ const CreatePage = () => {
             />
 
             <Button colorScheme="blue" onClick={handleAddProduct} w="full">
-              Add Product
+              Add Stash
             </Button>
           </VStack>
         </Box>

@@ -82,7 +82,7 @@ const CreatePage = () => {
               }
             />
 
-            <Button colorScheme="blue" onClick={handleAddProduct} w="full">
+            <Button colorScheme="yellow" onClick={handleAddProduct} w="full">
               Add Stash
             </Button>
           </VStack>

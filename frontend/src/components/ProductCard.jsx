@@ -68,7 +68,7 @@ const ProductCard = ({ product }) => {
     } else {
       toast({
         title: "Success",
-        description: "Product updated successfully",
+        description: "Stash updated successfully",
         status: "success",
         duration: 3000,
         isClosable: true,

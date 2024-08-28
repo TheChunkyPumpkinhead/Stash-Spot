@@ -4,6 +4,14 @@
 
 The Stash Spot is a comprehensive web application empowering users to efficiently manage product information. It offers a streamlined interface for creating, viewing, updating, and deleting products, complemented by a responsive design, robust error handling, and the flexibility of light/dark mode themes.
 
+## Screenshots
+
+![Homepage Screenshot](assets/screenshots-2.png)
+
+![Homepage Screenshot Dark](public/screenshot-1.png.)
+
+![Stash Spot Screenshot ](public/screenshot-3.png.)
+
 ## Core Features
 
 ### Product CRUD Operations

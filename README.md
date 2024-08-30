@@ -6,11 +6,11 @@ The Stash Spot is a comprehensive web application empowering users to efficientl
 
 ## Screenshots
 
-![Homepage Screenshot](screenshots/screenshot-2.png)
+![Homepage Screenshot](/public/screenshots/screenshot-2.png)
 
-![Homepage Screenshot Dark](screenshots/screenshot-1.png)
+![Homepage Screenshot Dark](public/screenshots/screenshot-1.png)
 
-![Stash Spot Screenshot ](screenshots/screenshot-3.png)
+![Stash Spot Screenshot ](public/screenshots/screenshot-3.png)
 
 ## Core Features
 
